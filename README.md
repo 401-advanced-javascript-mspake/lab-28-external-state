@@ -1,7 +1,7 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB  
 =================================================  
   
-## Lab 28 - Internal State  
+## Lab 28 - External State  
   
 ### Author: Morgana Spake  
   
